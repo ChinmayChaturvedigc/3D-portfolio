@@ -26,8 +26,8 @@ import shopify from "./company/Kangaroo.png";
 import starbucks from "./company/avlogo.svg";
 import tesla from "./company/S3.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import carrent from "./Agility.png";
+import jobit from "./roaming.png";
 import tripguide from "./tripguide.png";
 
 export {

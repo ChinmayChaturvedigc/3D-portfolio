@@ -120,12 +120,12 @@ const experiences = [
     company_name: "Agility Visuals",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Led the development of dynamic dashboards, KPI charts, and modules, integrating analytics tools for real-time insights.",
+      "Achieved a 70% improvement in optimising the code which enhanced the KPI module.",
+      "Conducted rigorous software testing, ensuring bug-free and optimized applications.",
+      "Recognized for fostering effective communication, improving collaboration within the team.",
     ],
   },
   {
@@ -133,11 +133,11 @@ const experiences = [
     company_name: "Strivio",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2022 - Dec 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Spearheaded the enhancement and evolution of Strivio Health Tech's Holistic Wellness Platform, specifically engineering dashboards,landing pages, and various functionalities.",
+      "Implemented A/B testing methodologies, resulting in a 15% increase in user engagement and a 10% improvement in click-through rates.",
+      "Actively engaged in code reviews, upholding code quality standards, and adhering to best practices.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
@@ -146,12 +146,12 @@ const experiences = [
     company_name: "Kangaroo Softwares",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "July 2021 - Dec 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Translated Figma designs into responsive components, ensuring a seamless interface and increasing page load speed by 20%.",
+      "Developed dynamic E-commerce websites, boosting user engagement by 30% through effective API integration and data population.",
+      "Collaborated with cross-functional teams, meeting 100% of project deadlines and exceeding performance benchmarks.",
+      "Conducted impactful code reviews, improving overall code quality and reducing bug rates by 25%.",
     ],
   },
 ];
@@ -185,63 +185,72 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Agility Visual",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Streamline business with cutting-edge software, enhancing agility through intuitive visuals for optimal efficiency and strategic decision-making.",
     tags: [
       {
-        name: "react",
+        name: "react.js",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Redux",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Sass",
         color: "pink-text-gradient",
+      },
+      {
+        name: "PHP",
+        color: "blue-text-gradient",
       },
     ],
     image: carrent,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Roaming Route",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Responsive design, easy booking, and dynamic activities. Your ultimate getaway—crafted for adventure, comfort, and connection.",
     tags: [
       {
-        name: "react",
+        name: "NextJ14",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "JS",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link:
+      "https://github.com/ChinmayChaturvedigc/NEXT.js-Landing-Page/tree/master",
   },
   {
-    name: "Trip Guide",
+    name: "Yourfitnesstories",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "JS",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "PHP",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "HTML",
         color: "pink-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "blue-text-gradient",
       },
     ],
     image: tripguide,
